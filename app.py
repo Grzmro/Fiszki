@@ -282,7 +282,7 @@ elif menu == "🔍 Wyszukaj":
                         st.markdown(f"**Odpowiedź:** _{item['answer']}_")
                         st.info("Możesz edytować tylko własne fiszki.")
         else:
-            st.warning("Nic nie znaleziono.")
+            st.warning("Nic nie znaleziono. cosik")
 
 # ───────────────────────────────────────────────────────────────────────────────
 # STATS

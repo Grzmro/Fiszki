@@ -12,5 +12,11 @@
       "question": "Stolica Polski?",
       "answer": "Cosik"
     }
+  ],
+  "matematyka": [
+    {
+      "question": "Cosinus",
+      "answer": "Sinus"
+    }
   ]
 }
